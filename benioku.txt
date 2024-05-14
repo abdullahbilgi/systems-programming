@@ -1,0 +1,3 @@
+Libfdr dosyası, libfdr kütüphanesinin *h,*c ve *a dosyalarının olduğu yerdir.
+
+Çalışır proje proje klasörünün içindedir.
